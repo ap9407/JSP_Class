@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\kgitbank21\Desktop\柳己\workspace_java_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3125105771.index
+\day02\src
+C:\Users\kgitbank21\Desktop\柳己\workspace_java_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3453716123.index
+\day01\src
+C:\Users\kgitbank21\Desktop\柳己\workspace_java_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\568334340.index
+\day03\src
+C:\Users\kgitbank21\Desktop\柳己\workspace_java_jsp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\243530944.index
+\test1\src
