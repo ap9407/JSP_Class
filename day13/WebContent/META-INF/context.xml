@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xml은 tag가 key이다 -->
+<!-- 객체를 텍스트형식으로 나타내는 파일이다 -->
+
+<Context>
+	<Resource 
+		name="jdbc/oracle"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="oracle.jdbc.driver.OracleDriver"
+		url="jdbc:oracle:thin:@192.168.1.100:1521:xe"
+		username="c##itbank"
+		password="it"
+		maxIdle="10"
+		maxWait="-1"
+		
+	/>
+</Context>
